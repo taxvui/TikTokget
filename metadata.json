@@ -1,0 +1,6 @@
+{
+  "name": "TikLink Extractor",
+  "description": "Công cụ quét, trích xuất và xuất danh sách toàn bộ link video từ kênh TikTok.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
